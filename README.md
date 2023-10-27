@@ -1,0 +1,2 @@
+# To_dos_and_remainder_system
+A to-do and reminder system is a tool that helps individuals or teams organize and manage tasks and deadlines. It allows you to create a list of tasks or activities that need to be completed, set due dates and priorities, and receive reminders or notifications to stay on track. This system can be a physical planner, a digital application, or integrated into productivity tools. It helps improve productivity, prioritize tasks, and ensure important deadlines are met.
